@@ -1,11 +1,11 @@
 # World-Happiness-Report
 
-World Happiness Report 2015-2019
-Source: This dataset is sourced from Kaggle with a gold star rating and 8.53 rating of usability.
+##World Happiness Report 2015-2019
+###Source: This dataset is sourced from Kaggle with a gold star rating and 8.53 rating of usability.
 The report is linked to the Sustainable Development Solutions Network, and was updated four
 years ago.
 
-Collection & Contents: The scores and rankings take data from the Gallup World Poll which
+###Collection & Contents: The scores and rankings take data from the Gallup World Poll which
 base their ratings off of the Cantril Scale. The scale is coupled with the following factors:
 economic production (GDP per Capita), social support, life expectancy, freedom, absence of
 corruption, and generosity. In addition, the study compares its rankings to “Dystopia,” an
@@ -22,7 +22,7 @@ would be equally beneficial to consider areas less tied towards judgment of life
 closely to that of social wellbeing such as quality of food, parental leave, and other social
 services.
 
-Relevance: This data set seems to meet the requirements for the Achievement 6 project brief,
+###Relevance: This data set seems to meet the requirements for the Achievement 6 project brief,
 as it is open source, includes geospatial components, and meets the size and variable
 requirements. Its latest records are four years old, and was provided in the Achievement 6
 project brief. In the future, looking at parental leave, quality of food, social services, and
