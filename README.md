@@ -27,5 +27,4 @@ as it is open source, includes geospatial components, and meets the size and var
 requirements. Its latest records are four years old, and was provided in the Achievement 6
 project brief. In the future, looking at parental leave, quality of food, social services, and
 community sustainability, cleanliness of water, and/or accessibility of resources seem worthwhile
-to compare to this data set, but for a matter of time to complete the assignment, I may maintain
-this dataset as is.
+to compare to this data set.
